@@ -1,0 +1,24 @@
+services:
+  jekyll:
+    container_name: pcl-jekyll
+    image: jekyll/jekyll:latest
+    command: >
+      sh -c "
+      if [ ! -f Gemfile ]; then
+        echo 'source \"https://rubygems.org\"' > Gemfile &&
+        echo 'gem \"github-pages\", group: :jekyll_plugins' >> Gemfile;
+      fi &&
+      bundle check || bundle install &&
+      jekyll serve --watch --drafts
+      "
+    volumes:
+      - .:/srv/jekyll
+      - jekyll-gems:/usr/local/bundle
+    ports:
+      - "4000:4000"
+    environment:
+      - JEKYLL_ENV=development
+      - TZ=Europe/Paris
+
+volumes:
+  jekyll-gems:

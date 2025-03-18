@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img.logo{
+  max-width:125px;
+  margin: 0 0 15px 0;
+}
+
+header{
+  text-align: center;
+}
+
+ul.socials{
+  list-style: none;
+  padding: 0;
+}
+
+ul.socials li{
+  display: inline-block;
+}
+
+ul.socials li img{
+  width: 30px;
+  margin: 0 5px;
+}
