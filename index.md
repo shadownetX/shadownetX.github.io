@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Thomas Picollin | Développeur Web
 ---
 
 # Thomas Picollin
