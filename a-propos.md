@@ -1,6 +1,6 @@
 ---
 layout: default
-title: À propos
+title: Thomas Picollin | À propos
 ---
 
 [> Retour](/)
