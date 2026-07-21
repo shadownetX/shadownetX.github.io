@@ -10,7 +10,7 @@ title: "À propos"
 
 Passionné par le développement et les technologies, je me spécialise en **PHP**, avec une approche **Agile** et une évolution vers le **Full Stack**. Mon objectif est de créer des solutions web robustes et évolutives pour répondre aux besoins des utilisateurs tout en m'appuyant sur les meilleures pratiques de développement.
 
-🚀 **Disponible pour de nouvelles missions à partir de Q1 2026**
+🚀 **Disponible pour de nouvelles missions à partir de Q1 2028**
 
 ---
 
