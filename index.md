@@ -11,7 +11,7 @@ Passionné par le développement web, je conçois des solutions performantes et 
 
 ## Compétences principales
 - **Back-end** : PHP, Symfony, SQL
-- **Front-end** : HTML, CSS, JavaScript, 🚧 React 🚧
+- **Front-end** : HTML, CSS, JavaScript, React
 - **Outils** : Docker, Git, Gitlab CI/CD
 - **Méthodologies** : Agile, Scrum
 
@@ -20,6 +20,6 @@ Avec plusieurs années d'expérience dans le développement web, j'ai contribué
 [Voir toutes mes expériences.](a-propos.html)
 
 ## Disponibilité
-📅 **Prochaine disponibilité pour de nouvelles missions : Q1 2026**
+📅 **Prochaine disponibilité pour de nouvelles missions : Q1 2028**
 
 📬 **[Contactez-moi](mailto:thomas@picollin.fr?Subject=Contact via picollin.fr)** pour discuter de vos projets et collaborations !  
